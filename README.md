@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a third year student at [Télécom SudParis](https://www.telecom-sudparis.eu/), an [Institut Polytechnique de Paris](https://www.ip-paris.fr/) school, where I major in Computer Science. 
 
@@ -8,11 +8,9 @@ Here is my [French CV](assets/CV_SavesMarion.pdf) and here [the English one](ass
 
 ## How to reach me 📫
 
-#### Personal Website
-https://www.marionsaves.fr
+#### [Personal Website](http://www.marionsaves.fr)
 
-#### Linkedin
-https://www.linkedin.com/in/marion-saves/
+#### [Linkedin](https://www.linkedin.com/in/marion-saves/)
 
 ## Technologies✨
 
